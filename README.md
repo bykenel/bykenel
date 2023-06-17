@@ -3,6 +3,8 @@
 🌱 I’m currently learning Python, C#, GameMaker and Unity<br>
 🦉 Fun fact: I am more productive at night, just like an owl is!
 
+[![CV](https://img.shields.io/badge/-See‎ㅤCurriculum‎‎‎‎ㅤVitae-%2320232a.svg?style=for-the-badge&logo=Hotmailr&logoColor=white)](https://8kenel.github.io/attachments/CV_denzel-farias.pdf)
+
 # 🌐 Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/476545927457406988) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/8kenel)
