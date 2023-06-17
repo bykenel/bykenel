@@ -18,15 +18,15 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/c-ED8B00.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-ED225D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c_sharp-6DA55F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-%2320232a.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/-GameMaker-%236DB33F.svg?style=for-the-badge&logo=GameMaker&logoColor=white)
 
 # 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=8kenel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kenel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=8kenel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kenel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
