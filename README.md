@@ -3,7 +3,7 @@
 🌱 I’m currently learning Python, C#, GameMaker and Unity<br>
 🦉 Fun fact: I am more productive at night, just like an owl is!
 
-[![CV](https://img.shields.io/badge/-See‎ㅤCurriculum‎‎‎‎ㅤVitae-%2320232a.svg?style=for-the-badge&logo=Hotmailr&logoColor=white)](https://8kenel.github.io/attachments/CV_denzel-farias.pdf)
+[![CV](https://img.shields.io/badge/-Curriculum‎‎‎‎_Vitae-%2320232a.svg?style=for-the-badge&logo=Hotmailr&logoColor=white)](https://8kenel.github.io/attachments/CV_denzel-farias.pdf)
 
 # 🌐 Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/476545927457406988) 
@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-ED8B00.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/csharp-6DA55F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/c_sharp-6DA55F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-%2320232a.svg?style=for-the-badge&logo=Unity&logoColor=white)
 ![GameMaker](https://img.shields.io/badge/-GameMaker-%236DB33F.svg?style=for-the-badge&logo=GameMaker&logoColor=white)
