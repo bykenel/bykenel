@@ -27,6 +27,6 @@
 
 # 📊 GitHub Stats:
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=8kenel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kenel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=8kenel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8kenel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
