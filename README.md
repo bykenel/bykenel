@@ -1,4 +1,4 @@
-# 🧠 About Me:
+# 🧠 About me:
 🎯 I'm interested in game development, graphic design, drawing and music production<br>
 🌱 I’m currently learning Python, C#, GameMaker and Unity<br>
 🦉 Fun fact: I am more productive at night, just like an owl is!
