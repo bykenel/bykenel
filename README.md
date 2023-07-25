@@ -25,7 +25,6 @@
 ![C#](https://img.shields.io/badge/c_sharp-6DA55F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-%2320232a.svg?style=for-the-badge&logo=Unity&logoColor=white)
-![GameMaker](https://img.shields.io/badge/-GameMaker-%236DB33F.svg?style=for-the-badge&logo=GameMaker&logoColor=white)
 
 # 📊 GitHub Stats:
 <div>
