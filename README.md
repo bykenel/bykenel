@@ -1,7 +1,7 @@
 # 🧠 About me:
 🎯 I'm interested in game development, graphic design, drawing and music production<br>
 🌱 I’m currently learning Python, C#, Flutter and Unity<br>
-🦉 Fun fact: I am more productive at night, just like an owl is!
+🦉 Fun fact: I am more productive at night!
 
 [![CV](https://img.shields.io/badge/-Curriculum‎‎‎‎_Vitae-%2320232a.svg?style=for-the-badge&logo=Hotmailr&logoColor=white)](https://8kenel.github.io/attachments/CV_denzel-farias.pdf)
 
