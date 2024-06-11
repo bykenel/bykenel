@@ -1,6 +1,6 @@
 # 🧠 About me:
 🎯 I'm interested in game development, graphic design, drawing and music production<br>
-🌱 I’m currently learning Python, C#, Flutter and Unity<br>
+🌱 I’m currently learning C#, React, Next and Unity<br>
 🦉 Fun fact: I am more productive at night!
 
 # 🌐 Connect with me:
