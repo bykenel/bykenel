@@ -1,6 +1,6 @@
 # 🧠 About me:
 🎯 I'm interested in game development, graphic design, drawing and music production<br>
-🌱 I’m currently learning C#, React, Next and Unity<br>
+🌱 I’m currently learning React, Next and Unity<br>
 🦉 Fun fact: I am more productive at night!
 
 # 🌐 Connect with me:
@@ -20,7 +20,6 @@
 ![Flutter](https://img.shields.io/badge/flutter-1DA1F2?style=for-the-badge&logo=flutter&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-ED225D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c_sharp-6DA55F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%2300599C.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-%2320232a.svg?style=for-the-badge&logo=Unity&logoColor=white)
