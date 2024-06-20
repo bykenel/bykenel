@@ -4,10 +4,10 @@
 🦉 Fun fact: I am more productive at night!
 
 # 🌐 Connect with me:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/476545927457406988) 
-[![X](https://img.shields.io/badge/X-%2320232a?style=for-the-badge&logo=X&logoColor=white)](https://x.com/bykenel)
+[![Email](https://img.shields.io/badge/email-6DA55F?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:denzel.vianna@hotmail.com)
+[![X](https://img.shields.io/badge/x-%2320232a?style=for-the-badge&logo=X&logoColor=white)](https://x.com/bykenel)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denzel-farias)
-[![Email](https://img.shields.io/badge/Email-%2320232a.svg?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:denzel.vianna@hotmail.com)
+[![Discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/476545927457406988) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
