@@ -5,7 +5,7 @@
 
 # 🌐 Connect with me:
 [![Email](https://img.shields.io/badge/email-6DA55F?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:denzel.vianna@hotmail.com)
-[![X](https://img.shields.io/badge/x-%2320232a?style=for-the-badge&logo=X&logoColor=white)](https://x.com/bykenel)
+[![X](https://img.shields.io/badge/twitter-%2320232a?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/bykenel)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denzel-farias)
 [![Discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/476545927457406988) 
 
@@ -26,6 +26,6 @@
 
 # 📊 GitHub Stats:
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bykenel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=bykenel&theme=tokyonight&hide_border=false">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bykenel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
