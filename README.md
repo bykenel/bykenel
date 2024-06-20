@@ -1,7 +1,7 @@
 # 🧠 About me:
 🎯 I'm interested in game development, graphic design, drawing and music production<br>
 🌱 I’m currently learning React, Next and Unity<br>
-🦉 Fun fact: I am more productive at night!
+🦉 Fun fact: I usually program at night
 
 # 🌐 Connect with me:
 [![Email](https://img.shields.io/badge/email-6DA55F?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:denzel.vianna@hotmail.com)
