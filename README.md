@@ -4,7 +4,7 @@
 🦉 Fun fact: I usually program at night
 
 # 🌐 Connect with me:
-[![Email](https://img.shields.io/badge/email-6DA55F?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:denzel.vianna@hotmail.com)
+[![Email](https://img.shields.io/badge/email-6DA55F?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:denzel.vianna@hotmail.com)
 [![X](https://img.shields.io/badge/twitter-%2320232a?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/bykenel)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denzel-farias)
 [![Discord](https://img.shields.io/badge/discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/476545927457406988) 
@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230077B5.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/flutter-1DA1F2?style=for-the-badge&logo=flutter&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-6DA55F?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-ED225D.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%2300599C.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
