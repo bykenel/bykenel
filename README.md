@@ -1,5 +1,5 @@
 # 🧠 About me:
-🎯 I'm interested in game development, graphic design, drawing and music production<br>
+🎯 I'm interested in game development, web development, graphic design and music<br>
 🌱 I’m currently learning React, Next and Unity<br>
 🦉 Fun fact: I usually program at night
 
