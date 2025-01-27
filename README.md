@@ -31,6 +31,6 @@
 
 # 📊 GitHub Stats:
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bykenel&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bykenel&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bykenel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </div>
