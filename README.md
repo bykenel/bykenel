@@ -19,6 +19,7 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-%2320232a.svg?style=for-the-badge&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23430098.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Java](https://img.shields.io/badge/-java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white) 
